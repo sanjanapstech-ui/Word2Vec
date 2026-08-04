@@ -98,7 +98,7 @@ model.W_in = embeddings
 print(most_similar("learning", model, word_to_id, id_to_word))
 ```
 
-## Notes / honest limitations
+## Notes
 
 - The included `sample_corpus.txt` is tiny (a few paragraphs) — great for
   verifying the code runs and produces sane-looking neighbors, but **too small
