@@ -1,4 +1,4 @@
-# Word2Vec
+# Word2Vec 
 
 A NumPy-only implementation of **Word2Vec (Skip-Gram with Negative Sampling)** — no
 TensorFlow, no PyTorch, no Gensim required to train. Built to actually understand
