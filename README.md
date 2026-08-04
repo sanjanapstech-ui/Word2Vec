@@ -19,7 +19,7 @@ The famous party trick this enables:
 vector("king") - vector("man") + vector("woman") ≈ vector("queen")
 ```
 
-## How it actually works (the short version)
+## How it actually works
 
 1. **Tokenize** the text into words.
 2. **Slide a window** across the text. For every word (the "center" word), grab
