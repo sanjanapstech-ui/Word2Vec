@@ -10,7 +10,7 @@ out of the box with no large downloads.
 
 1. Review: Bag-of-words
 2. Introducing the Word2Vec model
-3. Word2Vec demo on a small self-built dataset (no download needed)
+3. Word2Vec demo on a small self-built dataset
 4. Training your own model (on the Lee Evaluation Corpus, bundled with Gensim)
 5. Storing and loading models
 6. Training parameters (`min_count`, `vector_size`, `workers`)
